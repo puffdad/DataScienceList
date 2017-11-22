@@ -1,1 +1,2 @@
-*R for Data Science http://r4ds.had.co.nz/
+### R for Data Science 
+http://r4ds.had.co.nz/
